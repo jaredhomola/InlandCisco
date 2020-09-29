@@ -1,0 +1,14 @@
+30	BigManistiqueLake
+104	BrownsLake
+1	ElkLake
+2	GlenLake
+51	GreenLake
+69	HarwoodLake
+74	HowardLake
+62	LimeLake
+70	MurrayLake
+1	NorthLakeLeelanau
+115	NorthSandLake
+0	NorthernLakeHuron
+0	NortherLakeMichigan
+8	WalloonLake

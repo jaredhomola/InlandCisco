@@ -1,0 +1,14 @@
+10	-85.7816	46.2310	Big Manistique Lake
+11	-84.4185	42.1883	Browns Lake
+6	-85.3790	44.8508	Elk Lake
+1	-85.9629	44.8624	Glen Lake
+5	-85.5969	42.7508	Green Lake
+12	-85.7698	41.9280	Harwood Lake
+7	-85.5878	42.0821	Howard Lake
+9	-85.4946	42.5582	Lime Lake
+3	-85.3743	43.0346	Murray Lake
+4	-85.7405	45.0258	North Lake Leelanau
+8	-84.7059	41.9420	North Sand Lake
+13	-84.3053	45.9642	Northern Lake Huron
+14	-85.1278	45.3995	Little Traverse Bay
+2	-84.9849	45.2740	Walloon Lake

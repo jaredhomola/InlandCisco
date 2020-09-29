@@ -1,0 +1,27 @@
+---
+title: "README"
+author: "Jared J. Homola"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  html_document: default
+  md_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# InlandCisco
+## Phylogeography of Michigan's inland cisco
+
+### Analyses for in prep manuscript
+
+## To get started using the package 
+
+```{r eval=FALSE}
+options(repos=structure(c(CRAN="http://cran.r-project.org")))
+install.packages("devtools")
+library(devtools)
+install_github("jaredhomola/InlandCisco")
+```
