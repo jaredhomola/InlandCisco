@@ -1,6 +1,6 @@
 # InlandCisco
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5217577.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.5217577)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5217577.svg)](https://doi.org/10.5281/zenodo.5217577)
 
 ## Phylogeography of Michigan’s inland cisco
 
