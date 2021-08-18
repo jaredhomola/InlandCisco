@@ -1,5 +1,7 @@
 # InlandCisco
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5217577.svg)](https://zenodo.org/badge/DOI/10.5281/zenodo.5217577)
+
 ## Phylogeography of Michigan’s inland cisco
 
 InlandCisco is a research compendium that brings together the data and
