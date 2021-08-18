@@ -1,0 +1,23 @@
+Log file path: G:\My Drive\Side projects\Lake herring colonization model\InlandCisco\extData\Arlequin_log.txt
+Core Program Directory: C:/Users/jared/Downloads/WinArl35/WinArl35/
+Random number generator initialized with lidum=-788320
+	Reading  G:\My Drive\Side projects\Lake herring colonization model\InlandCisco\extData\final_mtDNA.arp ...	done.
+Reading general settings in input file ...
+done ! (0 ms)
+Reading data section in input file ...
+	Reading sample data ...
+	Reading BigManistiqueLake ... 
+	done ! (0 ms)
+
+   1 #[ERROR # 1] from function "Samples::Read()" : invalid value assigned to "SampleName"
+
+	Unable to read the specified number of populations.
+
+		Translator is unable to open the Arlequin File
+  Checking all selected options...
+		Building vectors of alleles...
+		done in 0 ms
+  done!
+  check selected settings...
+  done!
+    Writing  G:\My Drive\Side projects\Lake herring colonization model\InlandCisco\extData\final_mtDNA.gpp... done.
